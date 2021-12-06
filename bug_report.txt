@@ -1,1 +1,4 @@
-
+Summary: There is no favicon in the app
+Steps: Open the app
+Reult: there is no favicon in the app
+Expected result : unstall favicon in the app
